@@ -1,2 +1,3 @@
 superng6/qbittorrent
 nyanmisaka/jellyfin
+superng6/qbittorrentee
